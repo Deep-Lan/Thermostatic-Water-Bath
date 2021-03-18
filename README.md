@@ -6,7 +6,7 @@ Take thermostatic water bath as an example, we design a temperature control syst
 
 
 <div  align="center">    
-<img src="https://github.com/Deep-Lan/Thermostatic-Water-Bath/blob/main/figures/Fig1.jpg" width="30%" height="30%" />
+<img src="https://github.com/Deep-Lan/Thermostatic-Water-Bath/blob/main/figures/Fig1.jpg" width="90%" height="90%" />
 
 Fig.1 Thermostatic water bath system
 </div>
