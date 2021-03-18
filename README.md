@@ -13,7 +13,7 @@ Fig.1 Thermostatic water bath system
 We also realise quite high accuancy temperature control, which is shown on Fig.2.
 
 <div  align="center">    
-<img src="https://github.com/Deep-Lan/Thermostatic-Water-Bath/blob/main/figures/Fig2.jpg" width="70%" height="70%" />
+<img src="https://github.com/Deep-Lan/Thermostatic-Water-Bath/blob/main/figures/Fig2.jpg" width="50%" height="50%" />
 
 Fig.2 High accuancy temperature control
 </div>
